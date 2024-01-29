@@ -1,3 +1,5 @@
+git init
+
 git status
 git add .
 git restore --staged names.txt
@@ -10,3 +12,12 @@ git reset a8222474d8ae952dfc65ed76fb4624a7fe6fbffa
 git stash
 git stash pop
 git stash clear
+
+
+git remote add origin git@github.com:samuelraj-rit/test.git
+git push origin master
+
+git branch feature
+git checkout feature
+git checkout feature
+git merge feature
