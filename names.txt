@@ -1,0 +1,4 @@
+git status
+git add .
+git commit -m "names.txt file added"
+git status
