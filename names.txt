@@ -3,3 +3,5 @@ git add .
 git restore --staged names.txt
 git commit -m "names.txt file added"
 git status
+
+git log
